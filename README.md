@@ -1,4 +1,4 @@
-# Laxect Patpat
+# Patpat
 
 ## How do I install these formulae?
 
